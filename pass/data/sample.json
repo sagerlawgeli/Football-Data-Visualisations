@@ -1,0 +1,53 @@
+{
+    "object": [
+        {
+            "data": {
+                "id": "1",
+                "source": 20983,
+                "target": 29527,
+                "label": 2
+            }
+        },
+        {
+            "data": {
+                "id": "2",
+                "source": 29527,
+                "target": 55491,
+                "label": 1
+            }
+        },
+        {
+            "data": {
+                "id": 20983,
+                "name": 1,
+                "NickNameEn": "Player A"
+            },
+            "renderedPosition": {
+                "x": 30,
+                "y": 40
+            }
+        },
+        {
+            "data": {
+                "id": 29527,
+                "name": 4,
+                "NickNameEn": "Player B"
+            },
+            "renderedPosition": {
+                "x": 50,
+                "y": 60
+            }
+        },
+        {
+            "data": {
+                "id": 55491,
+                "name": 6,
+                "NickNameEn": "Player C"
+            },
+            "renderedPosition": {
+                "x": 70,
+                "y": 50
+            }
+        }
+    ]
+}

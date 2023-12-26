@@ -1,0 +1,1033 @@
+{
+    "object": [
+        {
+            "data": {
+                "id": "3050-10178",
+                "source": 3050,
+                "target": 10178,
+                "label": 2
+            },
+            "classes": "autorotate"
+        },
+        {
+            "data": {
+                "id": "3050-19999",
+                "source": 3050,
+                "target": 19999,
+                "label": 1
+            },
+            "classes": "autorotate"
+        },
+        {
+            "data": {
+                "id": "3050-27810",
+                "source": 3050,
+                "target": 27810,
+                "label": 1
+            },
+            "classes": "autorotate"
+        },
+        {
+            "data": {
+                "id": "3050-44420",
+                "source": 3050,
+                "target": 44420,
+                "label": 1
+            },
+            "classes": "autorotate"
+        },
+        {
+            "data": {
+                "id": "3050-72742",
+                "source": 3050,
+                "target": 72742,
+                "label": 2
+            },
+            "classes": "autorotate"
+        },
+        {
+            "data": {
+                "id": "10178-3050",
+                "source": 10178,
+                "target": 3050,
+                "label": 2
+            },
+            "classes": "autorotate"
+        },
+        {
+            "data": {
+                "id": "10178-19999",
+                "source": 10178,
+                "target": 19999,
+                "label": 3
+            },
+            "classes": "autorotate"
+        },
+        {
+            "data": {
+                "id": "10178-29527",
+                "source": 10178,
+                "target": 29527,
+                "label": 2
+            },
+            "classes": "autorotate"
+        },
+        {
+            "data": {
+                "id": "10178-44420",
+                "source": 10178,
+                "target": 44420,
+                "label": 3
+            },
+            "classes": "autorotate"
+        },
+        {
+            "data": {
+                "id": "10178-45470",
+                "source": 10178,
+                "target": 45470,
+                "label": 2
+            },
+            "classes": "autorotate"
+        },
+        {
+            "data": {
+                "id": "10178-45536",
+                "source": 10178,
+                "target": 45536,
+                "label": 3
+            },
+            "classes": "autorotate"
+        },
+        {
+            "data": {
+                "id": "10178-55499",
+                "source": 10178,
+                "target": 55499,
+                "label": 2
+            },
+            "classes": "autorotate"
+        },
+        {
+            "data": {
+                "id": "10178-72742",
+                "source": 10178,
+                "target": 72742,
+                "label": 6
+            },
+            "classes": "autorotate"
+        },
+        {
+            "data": {
+                "id": "13383-72742",
+                "source": 13383,
+                "target": 72742,
+                "label": 1
+            },
+            "classes": "autorotate"
+        },
+        {
+            "data": {
+                "id": "19999-10178",
+                "source": 19999,
+                "target": 10178,
+                "label": 4
+            },
+            "classes": "autorotate"
+        },
+        {
+            "data": {
+                "id": "19999-29527",
+                "source": 19999,
+                "target": 29527,
+                "label": 1
+            },
+            "classes": "autorotate"
+        },
+        {
+            "data": {
+                "id": "19999-44420",
+                "source": 19999,
+                "target": 44420,
+                "label": 1
+            },
+            "classes": "autorotate"
+        },
+        {
+            "data": {
+                "id": "19999-45470",
+                "source": 19999,
+                "target": 45470,
+                "label": 1
+            },
+            "classes": "autorotate"
+        },
+        {
+            "data": {
+                "id": "19999-45536",
+                "source": 19999,
+                "target": 45536,
+                "label": 1
+            },
+            "classes": "autorotate"
+        },
+        {
+            "data": {
+                "id": "19999-55491",
+                "source": 19999,
+                "target": 55491,
+                "label": 2
+            },
+            "classes": "autorotate"
+        },
+        {
+            "data": {
+                "id": "19999-55499",
+                "source": 19999,
+                "target": 55499,
+                "label": 1
+            },
+            "classes": "autorotate"
+        },
+        {
+            "data": {
+                "id": "19999-72742",
+                "source": 19999,
+                "target": 72742,
+                "label": 3
+            },
+            "classes": "autorotate"
+        },
+        {
+            "data": {
+                "id": "20983-3050",
+                "source": 20983,
+                "target": 3050,
+                "label": 2
+            },
+            "classes": "autorotate"
+        },
+        {
+            "data": {
+                "id": "20983-29527",
+                "source": 20983,
+                "target": 29527,
+                "label": 2
+            },
+            "classes": "autorotate"
+        },
+        {
+            "data": {
+                "id": "20983-55491",
+                "source": 20983,
+                "target": 55491,
+                "label": 1
+            },
+            "classes": "autorotate"
+        },
+        {
+            "data": {
+                "id": "20983-55499",
+                "source": 20983,
+                "target": 55499,
+                "label": 2
+            },
+            "classes": "autorotate"
+        },
+        {
+            "data": {
+                "id": "20983-72742",
+                "source": 20983,
+                "target": 72742,
+                "label": 1
+            },
+            "classes": "autorotate"
+        },
+        {
+            "data": {
+                "id": "27810-29517",
+                "source": 27810,
+                "target": 29517,
+                "label": 1
+            },
+            "classes": "autorotate"
+        },
+        {
+            "data": {
+                "id": "27810-72742",
+                "source": 27810,
+                "target": 72742,
+                "label": 2
+            },
+            "classes": "autorotate"
+        },
+        {
+            "data": {
+                "id": "29517-35364",
+                "source": 29517,
+                "target": 35364,
+                "label": 1
+            },
+            "classes": "autorotate"
+        },
+        {
+            "data": {
+                "id": "29517-55499",
+                "source": 29517,
+                "target": 55499,
+                "label": 1
+            },
+            "classes": "autorotate"
+        },
+        {
+            "data": {
+                "id": "29517-72742",
+                "source": 29517,
+                "target": 72742,
+                "label": 1
+            },
+            "classes": "autorotate"
+        },
+        {
+            "data": {
+                "id": "29527-3050",
+                "source": 29527,
+                "target": 3050,
+                "label": 1
+            },
+            "classes": "autorotate"
+        },
+        {
+            "data": {
+                "id": "29527-10178",
+                "source": 29527,
+                "target": 10178,
+                "label": 5
+            },
+            "classes": "autorotate"
+        },
+        {
+            "data": {
+                "id": "29527-19999",
+                "source": 29527,
+                "target": 19999,
+                "label": 2
+            },
+            "classes": "autorotate"
+        },
+        {
+            "data": {
+                "id": "29527-29517",
+                "source": 29527,
+                "target": 29517,
+                "label": 1
+            },
+            "classes": "autorotate"
+        },
+        {
+            "data": {
+                "id": "29527-44420",
+                "source": 29527,
+                "target": 44420,
+                "label": 2
+            },
+            "classes": "autorotate"
+        },
+        {
+            "data": {
+                "id": "29527-45470",
+                "source": 29527,
+                "target": 45470,
+                "label": 1
+            },
+            "classes": "autorotate"
+        },
+        {
+            "data": {
+                "id": "29527-45536",
+                "source": 29527,
+                "target": 45536,
+                "label": 6
+            },
+            "classes": "autorotate"
+        },
+        {
+            "data": {
+                "id": "29527-55491",
+                "source": 29527,
+                "target": 55491,
+                "label": 6
+            },
+            "classes": "autorotate"
+        },
+        {
+            "data": {
+                "id": "29527-55499",
+                "source": 29527,
+                "target": 55499,
+                "label": 3
+            },
+            "classes": "autorotate"
+        },
+        {
+            "data": {
+                "id": "29527-72742",
+                "source": 29527,
+                "target": 72742,
+                "label": 3
+            },
+            "classes": "autorotate"
+        },
+        {
+            "data": {
+                "id": "35364-44420",
+                "source": 35364,
+                "target": 44420,
+                "label": 1
+            },
+            "classes": "autorotate"
+        },
+        {
+            "data": {
+                "id": "35364-55499",
+                "source": 35364,
+                "target": 55499,
+                "label": 1
+            },
+            "classes": "autorotate"
+        },
+        {
+            "data": {
+                "id": "44420-3050",
+                "source": 44420,
+                "target": 3050,
+                "label": 1
+            },
+            "classes": "autorotate"
+        },
+        {
+            "data": {
+                "id": "44420-19999",
+                "source": 44420,
+                "target": 19999,
+                "label": 5
+            },
+            "classes": "autorotate"
+        },
+        {
+            "data": {
+                "id": "44420-29517",
+                "source": 44420,
+                "target": 29517,
+                "label": 1
+            },
+            "classes": "autorotate"
+        },
+        {
+            "data": {
+                "id": "44420-35364",
+                "source": 44420,
+                "target": 35364,
+                "label": 1
+            },
+            "classes": "autorotate"
+        },
+        {
+            "data": {
+                "id": "44420-45470",
+                "source": 44420,
+                "target": 45470,
+                "label": 4
+            },
+            "classes": "autorotate"
+        },
+        {
+            "data": {
+                "id": "44420-45536",
+                "source": 44420,
+                "target": 45536,
+                "label": 1
+            },
+            "classes": "autorotate"
+        },
+        {
+            "data": {
+                "id": "44420-55499",
+                "source": 44420,
+                "target": 55499,
+                "label": 2
+            },
+            "classes": "autorotate"
+        },
+        {
+            "data": {
+                "id": "44420-72742",
+                "source": 44420,
+                "target": 72742,
+                "label": 3
+            },
+            "classes": "autorotate"
+        },
+        {
+            "data": {
+                "id": "45470-3050",
+                "source": 45470,
+                "target": 3050,
+                "label": 2
+            },
+            "classes": "autorotate"
+        },
+        {
+            "data": {
+                "id": "45470-10178",
+                "source": 45470,
+                "target": 10178,
+                "label": 1
+            },
+            "classes": "autorotate"
+        },
+        {
+            "data": {
+                "id": "45470-19999",
+                "source": 45470,
+                "target": 19999,
+                "label": 2
+            },
+            "classes": "autorotate"
+        },
+        {
+            "data": {
+                "id": "45470-29527",
+                "source": 45470,
+                "target": 29527,
+                "label": 3
+            },
+            "classes": "autorotate"
+        },
+        {
+            "data": {
+                "id": "45470-44420",
+                "source": 45470,
+                "target": 44420,
+                "label": 4
+            },
+            "classes": "autorotate"
+        },
+        {
+            "data": {
+                "id": "45470-45536",
+                "source": 45470,
+                "target": 45536,
+                "label": 5
+            },
+            "classes": "autorotate"
+        },
+        {
+            "data": {
+                "id": "45470-55491",
+                "source": 45470,
+                "target": 55491,
+                "label": 7
+            },
+            "classes": "autorotate"
+        },
+        {
+            "data": {
+                "id": "45470-72742",
+                "source": 45470,
+                "target": 72742,
+                "label": 1
+            },
+            "classes": "autorotate"
+        },
+        {
+            "data": {
+                "id": "45536-3050",
+                "source": 45536,
+                "target": 3050,
+                "label": 1
+            },
+            "classes": "autorotate"
+        },
+        {
+            "data": {
+                "id": "45536-10178",
+                "source": 45536,
+                "target": 10178,
+                "label": 2
+            },
+            "classes": "autorotate"
+        },
+        {
+            "data": {
+                "id": "45536-19999",
+                "source": 45536,
+                "target": 19999,
+                "label": 1
+            },
+            "classes": "autorotate"
+        },
+        {
+            "data": {
+                "id": "45536-27810",
+                "source": 45536,
+                "target": 27810,
+                "label": 1
+            },
+            "classes": "autorotate"
+        },
+        {
+            "data": {
+                "id": "45536-29527",
+                "source": 45536,
+                "target": 29527,
+                "label": 1
+            },
+            "classes": "autorotate"
+        },
+        {
+            "data": {
+                "id": "45536-44420",
+                "source": 45536,
+                "target": 44420,
+                "label": 2
+            },
+            "classes": "autorotate"
+        },
+        {
+            "data": {
+                "id": "45536-45470",
+                "source": 45536,
+                "target": 45470,
+                "label": 3
+            },
+            "classes": "autorotate"
+        },
+        {
+            "data": {
+                "id": "45536-55491",
+                "source": 45536,
+                "target": 55491,
+                "label": 3
+            },
+            "classes": "autorotate"
+        },
+        {
+            "data": {
+                "id": "45536-72742",
+                "source": 45536,
+                "target": 72742,
+                "label": 9
+            },
+            "classes": "autorotate"
+        },
+        {
+            "data": {
+                "id": "55491-10178",
+                "source": 55491,
+                "target": 10178,
+                "label": 2
+            },
+            "classes": "autorotate"
+        },
+        {
+            "data": {
+                "id": "55491-20983",
+                "source": 55491,
+                "target": 20983,
+                "label": 2
+            },
+            "classes": "autorotate"
+        },
+        {
+            "data": {
+                "id": "55491-29527",
+                "source": 55491,
+                "target": 29527,
+                "label": 2
+            },
+            "classes": "autorotate"
+        },
+        {
+            "data": {
+                "id": "55491-44420",
+                "source": 55491,
+                "target": 44420,
+                "label": 3
+            },
+            "classes": "autorotate"
+        },
+        {
+            "data": {
+                "id": "55491-45470",
+                "source": 55491,
+                "target": 45470,
+                "label": 7
+            },
+            "classes": "autorotate"
+        },
+        {
+            "data": {
+                "id": "55491-45536",
+                "source": 55491,
+                "target": 45536,
+                "label": 7
+            },
+            "classes": "autorotate"
+        },
+        {
+            "data": {
+                "id": "55491-55499",
+                "source": 55491,
+                "target": 55499,
+                "label": 2
+            },
+            "classes": "autorotate"
+        },
+        {
+            "data": {
+                "id": "55491-72742",
+                "source": 55491,
+                "target": 72742,
+                "label": 3
+            },
+            "classes": "autorotate"
+        },
+        {
+            "data": {
+                "id": "55499-3050",
+                "source": 55499,
+                "target": 3050,
+                "label": 2
+            },
+            "classes": "autorotate"
+        },
+        {
+            "data": {
+                "id": "55499-10178",
+                "source": 55499,
+                "target": 10178,
+                "label": 5
+            },
+            "classes": "autorotate"
+        },
+        {
+            "data": {
+                "id": "55499-19999",
+                "source": 55499,
+                "target": 19999,
+                "label": 5
+            },
+            "classes": "autorotate"
+        },
+        {
+            "data": {
+                "id": "55499-29517",
+                "source": 55499,
+                "target": 29517,
+                "label": 1
+            },
+            "classes": "autorotate"
+        },
+        {
+            "data": {
+                "id": "55499-29527",
+                "source": 55499,
+                "target": 29527,
+                "label": 4
+            },
+            "classes": "autorotate"
+        },
+        {
+            "data": {
+                "id": "55499-45470",
+                "source": 55499,
+                "target": 45470,
+                "label": 1
+            },
+            "classes": "autorotate"
+        },
+        {
+            "data": {
+                "id": "55499-55491",
+                "source": 55499,
+                "target": 55491,
+                "label": 1
+            },
+            "classes": "autorotate"
+        },
+        {
+            "data": {
+                "id": "55499-72742",
+                "source": 55499,
+                "target": 72742,
+                "label": 5
+            },
+            "classes": "autorotate"
+        },
+        {
+            "data": {
+                "id": "72742-3050",
+                "source": 72742,
+                "target": 3050,
+                "label": 2
+            },
+            "classes": "autorotate"
+        },
+        {
+            "data": {
+                "id": "72742-10178",
+                "source": 72742,
+                "target": 10178,
+                "label": 8
+            },
+            "classes": "autorotate"
+        },
+        {
+            "data": {
+                "id": "72742-19999",
+                "source": 72742,
+                "target": 19999,
+                "label": 2
+            },
+            "classes": "autorotate"
+        },
+        {
+            "data": {
+                "id": "72742-27810",
+                "source": 72742,
+                "target": 27810,
+                "label": 2
+            },
+            "classes": "autorotate"
+        },
+        {
+            "data": {
+                "id": "72742-29527",
+                "source": 72742,
+                "target": 29527,
+                "label": 3
+            },
+            "classes": "autorotate"
+        },
+        {
+            "data": {
+                "id": "72742-35364",
+                "source": 72742,
+                "target": 35364,
+                "label": 1
+            },
+            "classes": "autorotate"
+        },
+        {
+            "data": {
+                "id": "72742-44420",
+                "source": 72742,
+                "target": 44420,
+                "label": 5
+            },
+            "classes": "autorotate"
+        },
+        {
+            "data": {
+                "id": "72742-45470",
+                "source": 72742,
+                "target": 45470,
+                "label": 4
+            },
+            "classes": "autorotate"
+        },
+        {
+            "data": {
+                "id": "72742-45536",
+                "source": 72742,
+                "target": 45536,
+                "label": 2
+            },
+            "classes": "autorotate"
+        },
+        {
+            "data": {
+                "id": "72742-55491",
+                "source": 72742,
+                "target": 55491,
+                "label": 3
+            },
+            "classes": "autorotate"
+        },
+        {
+            "data": {
+                "id": "72742-55499",
+                "source": 72742,
+                "target": 55499,
+                "label": 5
+            },
+            "classes": "autorotate"
+        },
+        {
+            "data": {
+                "id": 20983,
+                "name": 1,
+                "NickNameEn": "Murad Al Wuheeshi"
+            },
+            "renderedPosition": {
+                "x": 64,
+                "y": 279.48000000000001818989403545856475830078125
+            }
+        },
+        {
+            "data": {
+                "id": 29527,
+                "name": 4,
+                "NickNameEn": "Ali Youssef"
+            },
+            "renderedPosition": {
+                "x": 288,
+                "y": 312.3600000000000136424205265939235687255859375
+            }
+        },
+        {
+            "data": {
+                "id": 55491,
+                "name": 6,
+                "NickNameEn": "Osama Al Sourait"
+            },
+            "renderedPosition": {
+                "x": 264,
+                "y": 175.3600000000000136424205265939235687255859375
+            }
+        },
+        {
+            "data": {
+                "id": 55499,
+                "name": 13,
+                "NickNameEn": "Ahmed Fakroun"
+            },
+            "renderedPosition": {
+                "x": 360,
+                "y": 460.3200000000000500222085975110530853271484375
+            }
+        },
+        {
+            "data": {
+                "id": 45470,
+                "name": 30,
+                "NickNameEn": "Jumaa Bourgiga"
+            },
+            "renderedPosition": {
+                "x": 352,
+                "y": 76.719999999999998863131622783839702606201171875
+            }
+        },
+        {
+            "data": {
+                "id": 72742,
+                "name": 14,
+                "NickNameEn": "Suhaib Ben Suleiman"
+            },
+            "renderedPosition": {
+                "x": 408,
+                "y": 339.76000000000004774847184307873249053955078125
+            }
+        },
+        {
+            "data": {
+                "id": 45536,
+                "name": 25,
+                "NickNameEn": "Richard Boadu"
+            },
+            "renderedPosition": {
+                "x": 392,
+                "y": 224.68000000000000682121026329696178436279296875
+            }
+        },
+        {
+            "data": {
+                "id": 19999,
+                "name": 17,
+                "NickNameEn": "Salim Roma Baleid"
+            },
+            "renderedPosition": {
+                "x": 576,
+                "y": 274
+            }
+        },
+        {
+            "data": {
+                "id": 44420,
+                "name": 26,
+                "NickNameEn": "Fadel Salama"
+            },
+            "renderedPosition": {
+                "x": 536,
+                "y": 175.3600000000000136424205265939235687255859375
+            }
+        },
+        {
+            "data": {
+                "id": 10178,
+                "name": 7,
+                "NickNameEn": "Zakaria Mansouri"
+            },
+            "renderedPosition": {
+                "x": 496,
+                "y": 372.64000000000004320099833421409130096435546875
+            }
+        },
+        {
+            "data": {
+                "id": 3050,
+                "name": 9,
+                "NickNameEn": "Axel Meye"
+            },
+            "renderedPosition": {
+                "x": 648,
+                "y": 317.8400000000000318323145620524883270263671875
+            }
+        },
+        {
+            "data": {
+                "id": 13383,
+                "name": 16,
+                "NickNameEn": "Mohamed Altarhuni"
+            },
+            "renderedPosition": {
+                "x": 192,
+                "y": 186.320000000000021600499167107045650482177734375
+            }
+        },
+        {
+            "data": {
+                "id": 29517,
+                "name": 18,
+                "NickNameEn": "Hussein Khalifa Taqtaq"
+            },
+            "renderedPosition": {
+                "x": 584,
+                "y": 361.68000000000000682121026329696178436279296875
+            }
+        },
+        {
+            "data": {
+                "id": 27810,
+                "name": 19,
+                "NickNameEn": "Talha Rizq"
+            },
+            "renderedPosition": {
+                "x": 608,
+                "y": 438.40000000000003410605131648480892181396484375
+            }
+        },
+        {
+            "data": {
+                "id": 35364,
+                "name": 22,
+                "NickNameEn": "Mohamed Gad allha"
+            },
+            "renderedPosition": {
+                "x": 368,
+                "y": 284.9600000000000363797880709171295166015625
+            }
+        }
+    ]
+}
