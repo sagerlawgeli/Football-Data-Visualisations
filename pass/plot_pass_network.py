@@ -1,6 +1,5 @@
 import matplotlib.pyplot as plt
 import pandas as pd
-from mplsoccer import Pitch
 from mplsoccer import Pitch, FontManager, Sbopen
 from mplsoccer.utils import add_image
 from urllib.request import urlopen
@@ -24,10 +23,6 @@ df_positions = pd.DataFrame([{
     'name': position['data']['NickNameEn']
 } for position in positions])
 
-# pitch = Pitch(pitch_type='statsbomb', pitch_color='#151a24', line_color='#c7d5c8')
-# fig, ax = pitch.draw(figsize=(16, 11), constrained_layout=True, tight_layout=False)
-# fig.set_facecolor("#151a24")
-
 # Define the max values for x and y based on your pitch dimensions
 max_x, max_y = 120, 80
 
@@ -38,19 +33,6 @@ df_positions['y'] = (df_positions['y'] / df_positions['y'].max()) * max_y
 # Convert to integer format
 df_positions['x'] = df_positions['x'].astype(int)
 df_positions['y'] = df_positions['y'].astype(int)
-
-
-# # Plot passes with transparency
-# for _, row in df_passes.iterrows():
-#     source = df_positions[df_positions['player_id'] == row['source']].iloc[0]
-#     target = df_positions[df_positions['player_id'] == row['target']].iloc[0]
-#     pitch.lines(source['x'], source['y'], target['x'], target['y'], lw=2, color='white', alpha=0.2, ax=ax)
-
-# # Plot player positions and names with an offset above the circle
-# offset = 4  # Adjust this value as needed for better visibility
-# for _, row in df_positions.iterrows():
-#     pitch.scatter(row['x'], row['y'], s=200, color='red', ax=ax)
-#     plt.text(row['x'], row['y'] + offset, row['name'], fontsize=13, ha='center', va='bottom', color='white', zorder=5)
 
 # Create a pitch with a dark background
 pitch_color = '#0b132b'  # Deep navy blue
